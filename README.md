@@ -1,12 +1,17 @@
 ### Hi there, I'm Maya Chan! 👋
 
 ## About Me 🚀
-I'm a passionate UI/UX developer with experience in Figma and React. I love designing user-friendly interfaces, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm an **ex**-passionate UI/UX developer with experience in Figma and React. A software engineer right now.
+<br>
+I love to work with project I will mostly use. (ie: dart counter, personal cookbook etc)
+<br>
+Learning new skills and collaborating with others is still my hobby.
 
-- 🌱 Currently learning: Flutter
-- 🔭 Working on: Flutter project
-- 🌍 Languages: English, Cantonese
-- ⚡ Fun fact: I love my cat so much 🐱
+I leetcode when I'm in a good mood and learn to cook when I'm not. 
+<br>
+Currently chasing the perfect cacio e pepe and a decent pour over.
+<br>
+🌱 Open to collaborating, but my cat gets first review on all PRs 🐱
 
 ## My Skills 🧠
 
@@ -22,10 +27,8 @@ I'm a passionate UI/UX developer with experience in Figma and React. I love desi
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=MayaC5&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=white&show_icons=true)](https://github.com/MayaC5)
+I wanted to show my streak stats here. Then I remembered I forget to push.
 
-## Get in Touch 📬
-- **[LinkedIn]**(www.linkedin.com/in/mayachanym)
 
 <!--
 **MayaC5/MayaC5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
